@@ -1,0 +1,92 @@
+PORTAFOLIO DE CÁLCULO INTEGRAL
+================================
+
+Esta carpeta contiene una página web lista para subir a GitHub Pages.
+
+ARCHIVOS PRINCIPALES
+--------------------
+1. index.html
+   Contiene toda la información y estructura de la página.
+
+2. estilos.css
+   Contiene los colores, tamaños, diseño y adaptación para celulares.
+
+3. script.js
+   Controla el menú para celular y el año automático del pie de página.
+
+4. carpeta imagenes
+   Aquí debes guardar las gráficas, fotografías y capturas del proyecto.
+
+CÓMO ABRIR LA PÁGINA EN TU COMPUTADORA
+--------------------------------------
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta portafolio_calculo.
+3. Haz doble clic en index.html.
+4. La página se abrirá en tu navegador.
+
+QUÉ DEBES CAMBIAR PRIMERO
+-------------------------
+Busca en index.html los textos que dicen:
+- Los textos marcados con EDITAR AQUÍ
+- Las explicaciones de cada tema
+- Los ejercicios e imágenes
+- La reflexión final, cuando desees personalizarla
+
+Puedes modificar el archivo con:
+- Bloc de notas
+- Visual Studio Code
+- El editor de archivos de GitHub
+
+CÓMO SUBIRLO A GITHUB
+---------------------
+1. Crea un repositorio llamado portafolio-calculo.
+2. Entra al repositorio.
+3. Selecciona Add file > Upload files.
+4. Sube index.html, estilos.css, script.js y la carpeta imagenes.
+5. Guarda con Commit changes.
+6. Ve a Settings > Pages.
+7. En Source selecciona Deploy from a branch.
+8. Selecciona main y /root.
+9. Presiona Save.
+
+Tu enlace será parecido a:
+https://tuusuario.github.io/portafolio-calculo/
+
+RECOMENDACIÓN
+-------------
+No borres los símbolos < > del archivo index.html.
+Cambia solamente los textos que están entre ellos.
+
+
+PERSONALIZACIÓN ACTUAL
+----------------------
+Nombre: Cristina Aguilar Vila
+Docente: Ing. Milton Flores
+Carrera: Sistemas de Información
+Curso/paralelo: 2-12
+Periodo: Segundo semestre
+Paleta: #D6C3C9, #B49082, #98473E, #A37C40 y #07090F
+
+
+VERSIÓN ACTUAL
+--------------
+Se eliminó el cuadro de datos del estudiante y se aplicó un diseño oscuro con la paleta seleccionada.
+
+CAMBIOS DE ESTA VERSIÓN
+-----------------------
+- El primer apartado ahora se llama Formulario y se completará al final.
+- La sección Integrales Definidas incluye concepto, definición, imagen,
+  cinco propiedades y un video de ejemplo.
+
+- La sección Integrales Indefinidas contiene concepto, dos propiedades,
+  las partes de la expresión, una imagen y un video explicativo.
+
+- La sección Integración por Partes contiene concepto, fórmula, regla LIATE,
+  recomendaciones, pasos, imagen y dos videos.
+- El párrafo sobre integrales racionales no se agregó porque corresponde
+  al tema Integración por Fracciones Parciales.
+
+- La sección Integrales por Sustitución incluye concepto, fórmula, cuatro pasos, cambios de variable usuales, tres imágenes, recomendaciones y un video de ejemplo.
+
+- Todas las fórmulas del portafolio ahora se muestran con formato matemático mediante MathJax.
+- Para visualizar el formato completo, la página necesita conexión a internet al abrirse.
